@@ -43,7 +43,7 @@ The raw data was loaded into Power Query for cleaning and preparation. Key steps
 
   * *Add a screenshot of the Power Query editor showing the applied steps*
     
-    ![Power Query Editor](path/to/your/power_query_screenshot.png)
+    ![Power Query Editor](https://github.com/Ritesh01010/Hospital-Emergency-Room-Dashboard/blob/main/power%20query.png)
     
 
 ### 2\. Data Modeling & Analysis (DAX)
