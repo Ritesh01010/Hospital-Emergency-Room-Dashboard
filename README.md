@@ -13,8 +13,8 @@ This project focuses on the analysis of a hospital's Emergency Room (ER) operati
 
 Below is a snapshot of the final interactive dashboard.
 
-  * *Add your final dashboard screenshot here*
-    
+
+*    
     ![Hospital Emergency Room Dashboard](https://github.com/Ritesh01010/Hospital-Emergency-Room-Dashboard/blob/main/Dashboard.png)
 
 
@@ -41,7 +41,7 @@ The project was executed following these key steps. Below are screenshots from e
 
 The raw data was loaded into Power Query for cleaning and preparation. Key steps included correcting data types, standardizing inconsistent values in the `Patient Gender` column, removing duplicate columns, and handling blank values.
 
-  * *Add a screenshot of the Power Query editor showing the applied steps*
+  * 
     
     ![Power Query Editor](https://github.com/Ritesh01010/Hospital-Emergency-Room-Dashboard/blob/main/power%20query.png)
     
@@ -91,7 +91,7 @@ The dashboard includes a variety of visualizations to provide insights from diff
 
   * **Patient by Age Group, Gender & Attend Status**
 
-      * *Add a screenshot of these charts from your dashboard*
+      * 
         
         ![Demographic and Status Charts](https://github.com/Ritesh01010/Hospital-Emergency-Room-Dashboard/blob/main/Charts.png)
         
@@ -100,7 +100,7 @@ The dashboard includes a variety of visualizations to provide insights from diff
 
   * **Interactive Slicers:** The dashboard includes slicers for **Year**, **Department Referral**, and **Patient Gender**, allowing users to filter the entire report.
 
-      * *Add a screenshot of the slicers*
+      * 
         
         ![Slicers](https://github.com/Ritesh01010/Hospital-Emergency-Room-Dashboard/blob/main/Slicer.png)
         
